@@ -51,6 +51,7 @@ const Home = () => {
           ))}
         </Grid>
       </Box>
+      <Text mt="2rem">copyright @ 2021 All Rights Reserved</Text>
     </Box>
   );
 };
