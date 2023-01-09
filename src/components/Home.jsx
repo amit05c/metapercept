@@ -41,7 +41,7 @@ const Home = () => {
           {data?.map((el) => (
             <Box key={el.ID}  cursor="pointer" boxShadow="rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset">
               <Box boxSize="sm" margin="auto" p="1rem" >
-                <Image src="https://www.w3schools.com/css/paris.jpg" alt="Dan Abramov" />
+                <Image src="https://www.w3schools.com/css/paris.jpg" alt="dummy image" />
               </Box>
               <Text>{el.Name}</Text>
             <Text noOfLines={2}>{el.ShortDesc}</Text>
