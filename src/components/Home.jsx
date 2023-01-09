@@ -46,7 +46,7 @@ const Home = () => {
               <Text>{el.Name}</Text>
             <Text noOfLines={2}>{el.ShortDesc}</Text>
               
-              <Button cursor="pointer" colorScheme='blue' mb="1rem">View</Button>
+              <Button cursor="pointer" colorScheme='blue' mb="1rem" size='md' width='200px'>View</Button>
             </Box>
           ))}
         </Grid>
