@@ -1,6 +1,6 @@
 {
-  "posts": [
-    [
+  "data": [
+    
       {
         "ID": "BasicTechnicalWriting",
         "ImageUrl": "https://metapercept.com/images/training-certification/Basic-DITA%E2%80%93XML.jpg",
@@ -55,6 +55,6 @@
         "Name": "MadCap Flare",
         "ShortDesc": "This course focuses on developing technical writing skills to deepen the knowledge of Madcap Flare for writing specialized content in structured format using DITA-XML and other structured formats. This course use a combination of lectures, demonstrations, and hands-on practice exercises to explore the major features of Flare."
       }
-    ]
+    
   ]
 }
